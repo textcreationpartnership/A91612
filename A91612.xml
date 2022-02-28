@@ -1,0 +1,506 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Quakers quaking: or, The most just and deserved punishment inflicted on the person of James Naylor for his most horrid blasphemies. Together with the confession of his associates, who were Timothy Wedlock. Thomas Symons. John Stranger. [double brace] Hannah Stranger. Martha Symons. Dorcas Erbury. As also the reasons why the further punishment of the said James Naylor was suspended on Saturday, Decemb. 20. and deferred by order of Parliament untill Saturday, Decemb. 27. He remains still a prisoner to Newgate, where many of his associates do daily resort to him. To which is added, the severall damnable opinions of the said Quakers.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91612</idno>
+            <idno type="STC">Wing Q30</idno>
+            <idno type="STC">Thomason E1641_3</idno>
+            <idno type="STC">ESTC R209071</idno>
+            <idno type="EEBO-CITATION">99867976</idno>
+            <idno type="PROQUEST">99867976</idno>
+            <idno type="VID">170196</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91612)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170196)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 206:E1641[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Quakers quaking: or, The most just and deserved punishment inflicted on the person of James Naylor for his most horrid blasphemies. Together with the confession of his associates, who were Timothy Wedlock. Thomas Symons. John Stranger. [double brace] Hannah Stranger. Martha Symons. Dorcas Erbury. As also the reasons why the further punishment of the said James Naylor was suspended on Saturday, Decemb. 20. and deferred by order of Parliament untill Saturday, Decemb. 27. He remains still a prisoner to Newgate, where many of his associates do daily resort to him. To which is added, the severall damnable opinions of the said Quakers.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Gilbertson at the Bible in Giltspurstreet, without Newgate.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1657. [i.e. 1656]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verso of title page has woodcut depicting James Naylor in the stockade.</note>
+                  <note>Annotation on Thomason copy: "Decemb: 9th"; the 7 in the imprint date has been crossed out and replaced with a "6".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Naylor, James, 1617?-1660 --  Early works to 1800.</term>
+               <term>Society of Friends --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170196:1" rendition="simple:additions"/>
+            <p>THE QUAKERS QUAKING.</p>
+            <p>OR, The moſt juſt and deſerved puniſhment inflicted on the perſon of JAMES NAYLOR for his moſt horrid blaſphemies.</p>
+            <p>Together with the confeſſion of his Aſſociates, who were
+<list>
+                  <item>Timothy Wedlock.</item>
+                  <item>Thomas Symons.</item>
+                  <item>John Stranger.</item>
+                  <item>Hannah Stranger.</item>
+                  <item>Martha Symons.</item>
+                  <item>Dorcas Erbury.</item>
+               </list>
+            </p>
+            <p>As alſo the reaſons why the further pu<g ref="char:EOLhyphen"/>niſhment of the ſaid <hi>James Naylor</hi> was ſuſpended on Saturday, <hi>Decemb.</hi> 20. and deferred by order of Parliament untill Saturday, <hi>Decemb.</hi> 27. He remains ſtill a priſoner to <hi>Newgate,</hi> where many of his Aſſociates do daily reſort to him.</p>
+            <p>
+               <hi>To which is added,</hi> The ſeverall damnable Opinions of the ſaid QUAKERS.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ondon,</hi> Printed for <hi>W. Gilbertſon</hi> at the Bible in <hi>Giltſpurſtreet,</hi> without <hi>Newgate.</hi> 1657.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:170196:2"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of James Naylor in the pillory</figDesc>
+                  <head>The manner of <hi>James Naylors</hi> ſtanding in the Pillory in the Pallace-yard at Weſtminſter.</head>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="1" facs="tcp:170196:2"/>
+            <head>The Quakers quaking.</head>
+            <p>WE live now in the Evening of the World; and what our Sa<g ref="char:EOLhyphen"/>vior did propheſie ſhould then come to paſſe, and did adviſe us to take héed of, is fulfiilled in our dayes: <hi>Take heed</hi> (ſaith our Saviour Ieſus Chriſt) in <hi>Luke 13.</hi> verſe <hi>5. leſt any man deceive you, for many ſhall come in my name, ſaying, I am Chriſt, and ſhall deceive many.</hi> And in <hi>Matth. 24.</hi> verſe <hi>20.</hi> our Saviour foretel<g ref="char:EOLhyphen"/>ling the ſtrong deluſions to come, doth ad<g ref="char:EOLhyphen"/>viſe us in theſe words: <hi>Therefore if any man ſhall ſay unto you, loe here is Chriſt, or there, believe it not, for there ſhall ariſe falſe Chriſts, and falſe Prophets, and ſhall ſhew ſigns and wonders, in ſo much that if it were poſſible they ſhall deceive the very elect.</hi>
+            </p>
+            <p>The generation of Quakers, who had their originall in the North, have béen ſo fruitfull in a ſhort time, that they have in<g ref="char:EOLhyphen"/>fected a great part of the Weſt, and thou<g ref="char:EOLhyphen"/>ſands
+<pb n="2" facs="tcp:170196:3"/>in this populous City ſtand affected to them, being deluded by their pretended ſimplicity and zeale. You ſhall finde them maſters of ſo confident a ſpirit, as if the Oracles of truth did procéed onely out of their mouthes, and they muſt be caſt out to partake both of the ſhame and puniſh<g ref="char:EOLhyphen"/>ment of liars whoever ſhall endeavour to contradict them.</p>
+            <p>The names of <hi>George Fox</hi> and <hi>James Naylor</hi> have béen famous with many de<g ref="char:EOLhyphen"/>luded people in this City, and they have made a mouth of many at the Mouth at <hi>Al<g ref="char:EOLhyphen"/>derſgate</hi> At the laſt they began to quarrel among themſelves, and did in their way endeavour to excommunicate one another from their Congregations. It is ſaid that the latter of them, who both for his con<g ref="char:EOLhyphen"/>feſſion and his puniſhments ſhall be the ſubject of this diſcourſe, hath béen accoun<g ref="char:EOLhyphen"/>ted to have béen bewitched by the ſame creature, who having brought him to her will, did afterwards adore him; for it is manifeſt by the confeſſion of <hi>Martha Sy<g ref="char:EOLhyphen"/>mons</hi> before the Mayor and Aldermen of <hi>Briſtol</hi> that ſhe had ſtruck the ſaid <hi>James Naylor</hi> into a trance for thrée daies toge<g ref="char:EOLhyphen"/>ther, which although the ſaid <hi>James Naylor</hi> did deny, yet being informed that the con<g ref="char:EOLhyphen"/>feſſion
+<pb n="3" facs="tcp:170196:3"/>of <hi>Martha Symons</hi> did extend ſo far he was poſſeſſed with an amazing ſilence that ſo much ſhould be diſcovered of her ſtrength and his weakneſs.</p>
+            <p>But before I proceed to give you a Narrative of his blaſphemies, and how he was and would be adored as a new Ieſus. I will in the firſt place give you a chara<g ref="char:EOLhyphen"/>cter of his perſon, which is, that he is of about four and thirty years of age, a man of a good complexion brown hair, which he wears of an indiſterent length, but his beard was ſhort; he is of a melancho<g ref="char:EOLhyphen"/>ly aſpect, and he wears his hat hanging over his brows, his cloathes very plain; he wears a little band cloſe to his coller, without any band-ſtrings, as doth the other great Quaker <hi>George Fox;</hi> he doth ſtrive in his looks and poſture to imitate the Picture of our Saviour, as it was ſent up to <hi>Rome</hi> in the dayes of <hi>Tiberius Caeſar;</hi> and therefore he ſtrives to wear his hair as it were with a ſeam on the crown of his head, and ſo flowing down on each ſide of it. His parentage is of the meaneſt ranke, his father being ſaid to be a Sowgilder in <hi>Yorkſhire,</hi> in which County he himſelf was born, at a place called <hi>An<g ref="char:EOLhyphen"/>derſlow,</hi> and hath a Wife ſtill living at
+<pb n="4" facs="tcp:170196:4"/>
+               <hi>Wakefield.</hi> In the time of the late wars he was a Souldier, and ſerved under the command of the Lord <hi>Fairfax,</hi> and after<g ref="char:EOLhyphen"/>wards under the command of Generall <hi>Lambert</hi> in <hi>Scotland,</hi> where he was a Quarter-maſter, and falling ſick he retur<g ref="char:EOLhyphen"/>ned to his own Countrey, where he had not long continued but he was entred into the number of the <hi>Quakers,</hi> and coming to <hi>Lon<g ref="char:EOLhyphen"/>don</hi> grew acquainted with many women, with ſome of whom he was too familiar, and were inſtruments of his going down into the Weſt, where what horrid blaſphe<g ref="char:EOLhyphen"/>mies were broached by him in counterfeit<g ref="char:EOLhyphen"/>ing himſelf to be Ieſus the Saviour of mankind, the following Narration will advertiſe you. The comming of <hi>James Naylor</hi> into <hi>Briſtol,</hi> and the antick manner of <hi>Martha Symons</hi> waving her handker<g ref="char:EOLhyphen"/>chief, and ſinging, Holy, holy, holy, before him: and of <hi>Hannah ſtranger</hi> ſinging in the ſame manner, and of <hi>Dorcas Erbury</hi> pulling off his ſtockings, and laying her own cloathes beneath his féet, hath alrea<g ref="char:EOLhyphen"/>dy béen diſcourſed by ſeveral Pens. I ſhall in this place give you the moſt mate<g ref="char:EOLhyphen"/>rial paſſages of all their examinations: and in the firſt place I will begin with
+<pb n="5" facs="tcp:170196:4"/>
+               <hi>James Naylor,</hi> who being demanded whe<g ref="char:EOLhyphen"/>ther he was the onely ſon of God, confeſſed that he was the ſon of God, but muſt ac<g ref="char:EOLhyphen"/>knowledge that he had many brethren.</p>
+            <div type="interrogation">
+               <head>The Examination of <hi>James Naylor.</hi>
+               </head>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Have any called thee by the Name of Jeſus?</hi>
+               </p>
+               <p>
+                  <label>A.</label> Not as the viſible Ieſus, but as to Ieſus the Chriſt within me?</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Dareſt thou to own the name of the King of Iſrael?</hi>
+               </p>
+               <p>
+                  <label>A.</label> Not as I am a creature, but if they give it Chriſt within me, I then doe own it, and I have a Kingdom, but not of this world, my kingdom is of another world, of which thou wiſts not.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Art thou the Prophet of the moſt high?</hi>
+               </p>
+               <p>
+                  <label>A.</label> Thou haſt ſaid that I am a prophet.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Is not the written Word of God the guide?</hi>
+               </p>
+               <p>
+                  <label>A.</label> It declares of it, and what is not ac<g ref="char:EOLhyphen"/>cording to that is not true.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Wert thou ever called the Lamb of God?</hi>
+               </p>
+               <p>
+                  <label>A.</label> There might be ſome ſuch thing in ſome Letter ſent, but I am a Lamb, and
+<pb n="6" facs="tcp:170196:5"/>have ſought it long before I could wit<g ref="char:EOLhyphen"/>neſs it.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Art thou the everlaſting Son of God?</hi>
+               </p>
+               <p>
+                  <label>A.</label> I doe witneſs God in the fleſh I am the Son of God, and the Son of God is but one.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Art thou the Prince of peace?</hi>
+               </p>
+               <p>
+                  <label>A.</label> The Prince of everlaſting peace is begotten in me.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Art thou the everlaſting Son of God?</hi>
+               </p>
+               <p>
+                  <label>A.</label> I am and the everlaſting righteouſ<g ref="char:EOLhyphen"/>neſſe is wrought in me: if ye were ac<g ref="char:EOLhyphen"/>quainted with the Father, ye would alſo be acquainted with me.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Doſt thou live without bread?</hi>
+               </p>
+               <p>
+                  <label>A.</label> As long as it ſhal pleaſe my heaven<g ref="char:EOLhyphen"/>ly Father, I have taſted of that bread of which he that eateth ſhall never die.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>How long haſt thou lived without corporall ſuſtenance?</hi>
+               </p>
+               <p>
+                  <label>A.</label> Some fiftéen of ſixtéen daies, féeding on nothing but the Word of God.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Was Dorcas Erbury dead two daies in Exeter, and didſt thou raiſe her from the dead?</hi>
+               </p>
+               <p>
+                  <hi>A</hi> I can do nothing of my ſelf, the Scri<g ref="char:EOLhyphen"/>pture beareth witneſſe to the power in me which is everlaſting: It is the ſame power I have which w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> read in Scripture.</p>
+               <p>
+                  <pb n="7" facs="tcp:170196:5"/>
+                  <label>Q.</label> 
+                  <hi>Art thou the unſpotted Lamb of God that taketh away the ſins of the world?</hi>
+               </p>
+               <p>
+                  <label>A.</label> Were I not a Lamb, Wolves would not ſéek to devoure me.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Art not thou guilty of horrid blaſ<g ref="char:EOLhyphen"/>phemy by thy words?</hi>
+               </p>
+               <p>
+                  <label>A.</label> Who made me a judge over them?</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Why cameſt thou in ſuch an unuſuall poſture riding into this City, with two women leading thy horſe, and ſinging, holy holy, holy; and another before thee bare headed, and knee deep in the mud, at ſuch a time that it raining moſt extreamly thy companions received it at their necks, and vented it at their hoſe and breeches.</hi>
+               </p>
+               <p>
+                  <label>A.</label> It tended to my fathers praiſe and glory, and I ought not to ſlight any thing which the Spirit of the Lord moves.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Doſt thou think that the Spirit of the Lord moved them?</hi>
+               </p>
+               <p>
+                  <label>A.</label> Yes.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Theſe books thou haſt written, wilt thou affirm what is therein.</hi>
+               </p>
+               <p>
+                  <label>A.</label> Yea, with my deareſt blood.</p>
+            </div>
+            <div type="interrogation">
+               <pb n="8" facs="tcp:170196:6"/>
+               <head>The moſt material paſſages in the Exa<g ref="char:EOLhyphen"/>mination of <hi>Martha Symons.</hi>
+               </head>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Doeſt thou owne James Naylor to be the Prince of peace?</hi>
+               </p>
+               <p>
+                  <label>A.</label> He is a perfect man, and he that is a perfect man is the Prince of peace.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>What made thee to leave thy husband to follow James Naylor?</hi>
+               </p>
+               <p>
+                  <label>A.</label> It is our life to praiſe the Lord.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Oughteſt thou to worſhip him upon thy knees?</hi>
+               </p>
+               <p>
+                  <label>A.</label> I ought to do it.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>And wherefore ſo?</hi>
+               </p>
+               <p>
+                  <label>A.</label> He is the Lord of righteouſneſſe, and the new man within him is the everlaſting Son of righteouſneſſe, and <hi>James Naylor</hi> will be Ieſus when the new man is born in him?</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>By what name doſt thou call him?</hi>
+               </p>
+               <p>
+                  <label>A.</label> Lord.</p>
+               <p>
+                  <label>Q</label> 
+                  <hi>And why Lord?</hi>
+               </p>
+               <p>
+                  <label>A.</label> Becauſe he is prince of peace, and Lord of righteouſneſs.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Why doſt thou call him King of Iſ<g ref="char:EOLhyphen"/>rael?</hi>
+               </p>
+               <p>
+                  <label>A.</label> He is anointed.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Who anointed him?</hi>
+               </p>
+               <p>
+                  <pb n="9" facs="tcp:170196:6"/>
+                  <label>A.</label> A Prophet.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Who was that Prophet?</hi>
+               </p>
+               <p>
+                  <label>A.</label> I will not tell thée.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Doth that ſpirit of Jeſus which thou ſayeſt is in him make a ſufficient Jeſus unto others?</hi>
+               </p>
+               <p>
+                  <label>A.</label> There is a ſéed born in him which I and every one ought to honour.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Is he King of Iſrael, as thy Husband ſaith?</hi>
+               </p>
+               <p>
+                  <label>A.</label> If he ſath ſo, thy teſtimony is double.</p>
+            </div>
+            <div type="interrogation">
+               <head>The moſt material paſſages in the Exa<g ref="char:EOLhyphen"/>mination of <hi>Hannah Stranger.</hi>
+               </head>
+               <p>
+                  <label>Q.</label> 
+                  <hi>DOſt thou own</hi> Iames Naylor <hi>for the Prince of peace?</hi>
+               </p>
+               <p>
+                  <label>A.</label> Yea, he is ſo.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>What doſt thou call his name?</hi>
+               </p>
+               <p>
+                  <label>A.</label> It hath béen ſaid, I, and others have already told it.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Doſt thou not know it to be blaſphe<g ref="char:EOLhyphen"/>my to give him ſuch and ſuch attributes?</hi>
+               </p>
+               <p>
+                  <label>A.</label> If I have offended the Law, &amp;c.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Didſt not thou ſend him that Letter wherein he is called the ſon of God?</hi>
+               </p>
+               <p>
+                  <label>A.</label> Yes, I do own that Letter.</p>
+               <p>Being demanded why ſhe called him Ie<g ref="char:EOLhyphen"/>ſus, ſhe would return no anſwer at all.</p>
+            </div>
+            <div type="interrogation">
+               <pb n="10" facs="tcp:170196:7"/>
+               <head>The Examination of <hi>Timothy Wedlock.</hi>
+               </head>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Doſt thou own <hi>Iames Naylor</hi> to be the only ſon of God?</hi>
+               </p>
+               <p>
+                  <label>A.</label> I do own him to be the ſon of God.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Wherefore didſt thou ſing before him Holy, holy, holy, Lord God of Iſrael?</hi>
+               </p>
+               <p>
+                  <label>A.</label> I do own the ſongs of <hi>Sion.</hi>
+               </p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Wherefore didſt thou go bare headed before him, when thou wilt not be unco<g ref="char:EOLhyphen"/>vered before a Magiſtrate?</hi>
+               </p>
+               <p>
+                  <label>A.</label> What I did was as the Lord com<g ref="char:EOLhyphen"/>manded me.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Wherefore didſt thou kneel before him?</hi>
+               </p>
+               <p>
+                  <label>A.</label>The truth made me.</p>
+            </div>
+            <div type="interrogation">
+               <head>The moſt material paſſages in the Exa<g ref="char:EOLhyphen"/>mination of <hi>Dorcas Erbury</hi> the Relict of <hi>William Erbury,</hi> ſome<g ref="char:EOLhyphen"/>time a Miniſter, but now a Quaker.</head>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Doſt thou own him who rode on the Horſe to be the holy one of Iſrael?</hi>
+               </p>
+               <p>
+                  <label>A.</label> Yea, I do, and with my bloud I will maintain it.</p>
+               <p>
+                  <pb n="11" facs="tcp:170196:7"/>
+                  <label>Q</label> 
+                  <hi>Doſt thou own him for the ſon of God?</hi>
+               </p>
+               <p>
+                  <label>A.</label> He is the onely begotten ſon of God.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Wherefore didſt thou pull off his ſtockings, and lay thy cloathes at his feet?</hi>
+               </p>
+               <p>
+                  <label>A.</label> He is worthy of it, for the is the holy one of Iſrael.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Knoweſt thou no other Jeſus, the only begotten ſon of God?</hi>
+               </p>
+               <p>
+                  <label>A.</label> I know no other Saviour.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Doſt thou believe in <hi>Iames Naylor?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <label>A.</label> Yea, I do.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>By what name doſt thou call him?</hi>
+               </p>
+               <p>
+                  <label>A.</label> The ſon of God, but I am to ſerve him, and to call him Lord and Maſter.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Jeſus was crucified, but this man is alive?</hi>
+               </p>
+               <p>
+                  <label>A.</label> He hath ſhoke off his carnal body.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>What body hath he then?</hi>
+               </p>
+               <p>
+                  <label>A.</label> Say not the Scriptures, the natural body I will change, and it ſhall be ſpiri<g ref="char:EOLhyphen"/>tual.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>But Chriſt raiſed thoſe who are dead, ſo hath not he?</hi>
+               </p>
+               <p>
+                  <label>A.</label> He raiſed me.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>In what manner?</hi>
+               </p>
+               <p>
+                  <label>A.</label> He laid his hand on my head when I had been dead two dayes, and ſaid unto me <hi>Dorcas</hi> ariſe, and I aroſe and live as thou ſeeſt.</p>
+               <p>
+                  <pb n="12" facs="tcp:170196:8"/>
+                  <label>Q.</label> 
+                  <hi>What witneſſe haſt thou for this?</hi>
+               </p>
+               <p>
+                  <label>A.</label> My mother who was preſent.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Jeſus Chriſt doth ſit at the right hand of the Father, when the world ſhall be judged by him?</hi>
+               </p>
+               <p>
+                  <label>A.</label> He whom thou calleſt <hi>Naylor,</hi> ſhall ſit at the right hand of the Father, and ſhall judge the world with equity.</p>
+            </div>
+         </div>
+         <div type="part">
+            <head>The Subſtance of ſeveral Letters ſent to the ſaid <hi>James Naylor.</hi>
+            </head>
+            <p>
+               <hi>HAnnah Stranger</hi> in her Letter to him calls him The everlaſting Son of righ<g ref="char:EOLhyphen"/>teouſneſs, and Prince of Peace.</p>
+            <p>And in another place writing to the ſaid <hi>Naylor,</hi> ſhe hath theſe words, The Lord ſhall not ſuffer his holy one to ſee corruption, nor his ſoul to lie in Hell; but will cauſe the mountains to melt at his preſence, and the little hills to bring him Peace.</p>
+            <p>And in another Letter, ſhe calls him the faireſt of ten thouſand, the onely begotten Son of God; her heart panteth after him. Her Husband in his Letter to him, telleth
+<pb n="13" facs="tcp:170196:8"/>him that his name, is no more to be called <hi>James</hi> but Jeſus: and this he owned at his Examination.</p>
+            <list>
+               <head>The Opinions of the Quakers are theſe.</head>
+               <item>1. They deny the Scriptures to be the Word of God.</item>
+               <item>2. They eſteem their own ſpeakings to be of as much Authority.</item>
+               <item>3. They hold it lawful to expound, or to interpret the Scriptures.</item>
+               <item>4. They ſay, He that preacheth by a Text of Scripture is a Conjurer.</item>
+               <item>5. They affirm that the holy letter is carnal.</item>
+               <item>6. That the Bible ought to be burned.</item>
+               <item>7. That Jeſus Chriſt inhabiteth in the fleſh of Man.</item>
+               <item>8. Some of them have ſaid, that Chriſt never aſcended into Heaven.</item>
+               <item>9. That to pray that their ſins may be pardoned is needleſs.</item>
+               <item>10. That they believe not that there is a<g ref="char:EOLhyphen"/>nother World.</item>
+               <item>
+                  <pb n="14" facs="tcp:170196:9"/>
+11. Some of them deny the Reſurrection.</item>
+               <item>12. They affirm they cannot ſin, but are perfect.</item>
+               <item>13. They make no diſtinction of Perſons.</item>
+            </list>
+            <p>According to the Sentence paſſed upon him, the ſaid Iames Naylor ſtood in the Pillory, was whipped on Thurſday laſt being December 18. from the Palace-yard in Weſtminſter to the Royal-Ex<g ref="char:EOLhyphen"/>change: and the further proſecution of his Sentence had been put in Execution on Saturday December 20, but by an Or<g ref="char:EOLhyphen"/>der from the Parliament, the ſaid Naylor pretending ſickneſs, it is deferred until Saturday December twenty Seven, at which time he is to receive his juſt Re<g ref="char:EOLhyphen"/>ward, according to his deſert.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:170196:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
